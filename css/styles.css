@@ -1,0 +1,118 @@
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+
+}
+h1{
+  margin: 0;
+font-family: 'Pacifico', cursive;
+font-size: 4.625rem;
+color: #66BFBF;
+line-height: 2;
+}
+h2{
+  font-size: 2rem;
+  font-family: 'IBM Plex Serif', serif;
+  color: #66BFBF;
+  font-weight:normal;
+}
+h3{
+  color: #11999E;
+}
+.footer-link{
+  color: #11999E;
+}
+.btn{
+  -webkit-border-radius: 8;
+-moz-border-radius: 8;
+border-radius: 8px;
+font-family: 'IBM Plex Serif', serif;
+color: #ffffff;
+font-size: 20px;
+background: #66BFBF;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+}
+body{
+  margin: 0;
+text-align: center;
+}
+p{
+  font-family: 'IBM Plex Serif', serif;
+  color: #40541E;
+
+}
+
+hr{
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  margin: 50px auto 50px auto;
+  color: #EAF6F6;
+}
+
+.skill-row{
+  width: 50%;
+  position: relative;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.container{
+  width: 200px;
+  height: 200px;
+
+}
+
+.bottom-container{
+  padding: 40px;
+  margin-top: 30px;
+  background-color: #66BFBF;
+}
+.web {
+  text-decoration: underline;
+}
+.bot-cloud{
+  position: absolute;
+  top: 330px;
+}
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 60px;
+}
+.first-skill{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+
+}
+.second-skill{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+.hoa-img{
+  width: 18%;
+  margin-top: 50px;
+}
+.contact-me{
+  line-height: 3;
+}
+
+.footer-link{
+  color: #11999E;
+  margin: 20px 20px 50px 20px;
+    font-family: 'IBM Plex Serif', serif;
+    text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.last{
+  color: #EAF6F6;
+}
